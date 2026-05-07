@@ -1,4 +1,4 @@
-<img width="570" height="119" alt="545144165-95e9cb97-22c0-45c0-8820-a230e7f59c8c" src="https://github.com/user-attachments/assets/d37a9e21-05e7-40a3-9db6-7ad4d22d2523" /><img width="562" height="144" alt="545144016-80f31259-6fd8-4ecc-adac-02bdc37b9ead" src="https://github.com/user-attachments/assets/a42d64cc-99cd-48a5-a3be-0e93d88b1338" /># OS-Linux-commands-Shell-scripting
+< /># OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
